@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "message": "Get Data succeeded",
+  "data": {
+    "therapist_id": "hannah",
+    "word_count": {
+      // key will be displayed on the UI
+      "Therapist": "749.00",
+      // key will be displayed on the UI
+      "Client": "1710.00"
+    },
+    "word_frequencies": {
+      // key will be displayed on the UI
+      "Therapist": {
+        "difficulty": "3",
+        "anxiety": "4",
+        "anxious": "1",
+        "work": "1",
+        "interesting": "1",
+        "difficult": "1",
+        "worried": "2",
+        "helpful": "1",
+        "hot": "1",
+        "sweaty": "1",
+        "lead": "3",
+        "nice": "1"
+      },
+      // key will be displayed on the UI
+      "Сlient": {
+        "stupid": "2",
+        "shake": "4",
+        "bother": "1",
+        "bad": "1",
+        "celebrate": "1",
+        "work": "2",
+        "hot": "2",
+        "easy": "1",
+        "weird": "3",
+        "anxious": "1",
+        "fine": "1",
+        "well": "1",
+        "hard": "2",
+        "scary": "1",
+        "sweaty": "3"
+      }
+    },
+    "summary": "The therapist greeted Lucy, acknowledging that she was referred due to anxiety issues. Lucy mentioned her anxiety started about 5-6 years ago, escalating after moving out from her parents' home for the first time. She expressed feeling conflicted about seeking help and being at the session. Lucy shared how moving out made her feel more isolated, impacting her work as a photographer and hindering her social life. She struggled with independence, feeling lonely and anxious, avoiding social interactions and missing her previous social support. Lucy expressed concerns about losing connections and the uncertain future. The therapist inquired about a recent distressing incident, asking Lucy about her thoughts and feelings during that time. Lucy described feeling hot, having difficulty breathing, and experiencing intense self-consciousness while holding a camera tightly to conceal her physical symptoms. The therapist noted Lucy's anxiety and explored her thoughts of being judged and feeling out of place. Lucy expressed feeling stupid, sweaty, and shaky, trying to hide these physical signs by wearing black and avoiding eye contact. The session touched on Lucy's avoidance of social interactions and her immediate departure after the incident, feeling uncomfortable around others who might have noticed her distress."
+  },
+  "common_themes": [
+    "Lucy experiences social anxiety in work settings, leading to avoidance behaviors.",
+    "Lucy's anxiety impacts her ability to engage socially and make new connections.",
+    "Lucy struggles with feelings of inadequacy and self-consciousness in social situations.",
+    "Lucy's anxiety manifests physically through symptoms like sweating and shaking hands.",
+    "Lucy copes with anxiety by focusing on tasks to distract from social interactions."
+  ],
+  "key_moments": [
+    "Lucy expressed feeling anxious about seeking help, doubting herself.",
+    "Lucy disclosed worsening anxiety after moving out, feeling increasingly isolated.",
+    "Lucy shared how anxiety hinders work opportunities and social interactions.",
+    "Lucy described intense anxiety during a recent photography job, feeling judged and inadequate.",
+    "Lucy avoided socializing after a challenging work event, leaving abruptly to go home."
+  ],
+  "key_events": [
+    "Client moved out from living with parents for the first time",
+    "Client's friends went to university",
+    "Client started experiencing anxiety around age 19",
+    "Client's social anxiety impacting photography work",
+    "Client attended a fashion shoot with social anxiety",
+    "Client left a job shoot early due to social anxiety",
+    "Client avoided socializing after a job shoot",
+    "Client struggles with social interactions in photography work",
+    "Client feels inadequate and self-conscious during photography jobs",
+    "Client feels isolated and alone after moving out"
+  ],
+  "_ts": "2024-07-15T22:17:15.631653",
+  "analysis_type": "session_highlights",
+  "client_id": "lucy",
+  "session_id": "session"
+}
