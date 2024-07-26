@@ -6,4 +6,4 @@ This is a very early draft written in pseudocode. Please contact me for any help
 
 ## Examples
 
-- [Session Highlights] (/models/session-highlights.md)
+- [Session Highlights](/models/session-highlights.md)
